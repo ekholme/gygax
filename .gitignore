@@ -1,3 +1,4 @@
 .venv/
 poetry.lock
 data-raw/
+gygax_vector_db/

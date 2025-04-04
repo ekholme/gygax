@@ -9,7 +9,11 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "requests (>=2.32.3,<3.0.0)"
+    "requests (>=2.32.3,<3.0.0)",
+    "chromadb (>=1.0.0,<2.0.0)",
+    "google-genai (>=1.9.0,<2.0.0)",
+    "pysqlite3-binary (>=0.5.4,<0.6.0)",
+    "google-api-core (>=2.24.2,<3.0.0)"
 ]
 
 
